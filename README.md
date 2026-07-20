@@ -4,7 +4,7 @@ SnapVerse is a full-stack social media platform inspired by Instagram, built usi
 
 ## 🚀 Live Demo
 
-Project Link :- https://social-frontend-production-2988.up.railway.app/
+Project Link :- https://social-network-frontend-psi.vercel.app/
 
 ---
 
